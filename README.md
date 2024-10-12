@@ -14,7 +14,7 @@ Computer Science | Exploring | Cyber Security
 <img align="right" alt="coding" width= "400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"> 
 
 <a href="https://x.com/n4itr0_07" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/code_with_ssn?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+src="https://img.shields.io/twitter/follow/N4!TR0 07?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
 ### Skills
