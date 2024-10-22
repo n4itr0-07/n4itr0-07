@@ -98,7 +98,7 @@ I'm **N4!TR0 07**, a hacker & Learner. I'm on my way to becoming a **Cybersecuri
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n4itr0-07&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="450px">
 </div> -->
 <h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
-<img align="right" width="50%" src="https://i.imgur.com/1ToWEWw.png"/>
+<img align="right" width="45%" src="https://i.imgur.com/1ToWEWw.png"/>
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <!-- GitHub Stats -->
