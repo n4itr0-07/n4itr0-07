@@ -102,13 +102,13 @@ I'm **N4!TR0 07**, a hacker & Learner. I'm on my way to becoming a **Cybersecuri
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=n4itr0-07&bg_color=0D1117&text_color=FFFFFF&hide_border=true&include_all_commits=false&count_private=false" width="450px">
+  <img src="https://github-readme-stats.vercel.app/api?username=n4itr0-07&bg_color=0D1117&text_color=FFFFFF&hide_border=true&include_all_commits=false&count_private=false" width="445px">
   
   <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=n4itr0-07&theme=highcontrast&background=0D1117&hide_border=true" width="450px">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=n4itr0-07&theme=highcontrast&background=0D1117&hide_border=true" width="445px">
   
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n4itr0-07&bg_color=0D1117&text_color=FFFFFF&hide_border=true&layout=compact" width="450px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n4itr0-07&bg_color=0D1117&text_color=FFFFFF&hide_border=true&layout=compact" width="445px">
 </div>
 
 
