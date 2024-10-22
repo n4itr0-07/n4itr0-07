@@ -16,7 +16,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2>
 
-I'm **[`N4!TR0 07`](https://www.youtube.com/@lostsecc)**, a hacker & Learner. I'm on my way to becoming a **Cybersecurity Specialists** or a **Bug hunter**. <br>
+I'm **N4!TR0 07**, a hacker & Learner. I'm on my way to becoming a **Cybersecurity Specialists** or a **Bug hunter**. <br>
 **Technology** has always fascinated me, and I've immersed myself in the captivating world of cyber security. Malwares, Viruses, Bug hunting,I hope I will become a Cybersecurity Specialists then I can protect company assests and help community.
 
 
@@ -24,7 +24,7 @@ I'm **[`N4!TR0 07`](https://www.youtube.com/@lostsecc)**, a hacker & Learner. I'
   <summary>More about me</summary>
 
 - **Name**: N4!TR0 07
-- **From**: Earth
+- **From**: India
 - **Bug Hunter** | **Security Researcher** | **Purple Teaming**
 - Improving knowledge in **Website Vulnerabilities**
 - I’m currently learning **everything** 
@@ -39,11 +39,15 @@ I'm **[`N4!TR0 07`](https://www.youtube.com/@lostsecc)**, a hacker & Learner. I'
 
 <img width="25%" align='right' src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59">
 
-👉 Still Learning Bug hunting & Purple Teaming.
+👉 Currently Learning Bug Bounty Hunting & Penetration Testing.
 
-👉 Currently Learning web2 & web3 
+👉 Programming Bash, Python, Soon JavaScript & Go
+
+👉 Exploring Burp, Metaspolit, WireShark etc
 
 `Updating:`  Journey to Cybersecurity Specialist.
+
+
 
 ---
 
@@ -113,11 +117,11 @@ I'm **[`N4!TR0 07`](https://www.youtube.com/@lostsecc)**, a hacker & Learner. I'
 
 
 <p align="center">
-  <b><i>"Never give up. Never back down."</i></b>
+  <b><i>"Consistency | Faith | Discipline"</i></b>
 </p>
 
 <p align="center">
-<a>🌱</a>
+<a>💚</a>
 </p>
 <br>
 <p align="left">
