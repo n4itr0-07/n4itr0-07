@@ -89,14 +89,27 @@ I'm **N4!TR0 07**, a hacker & Learner. I'm on my way to becoming a **Cybersecuri
 ---
 
 
-<h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
-<img align="right" width="40%" src="https://i.imgur.com/1ToWEWw.png"/>
+<!--<h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
+<img align="right" width="50%" src="https://i.imgur.com/1ToWEWw.png"/>
 
  <div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=n4itr0-07&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false" width="470px">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=n4itr0-07&theme=blue-green&hide_border=false" width="470px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n4itr0-07&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="470px">
-</div> 
+  <img src="https://github-readme-stats.vercel.app/api?username=n4itr0-07&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false" width="450px">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=n4itr0-07&theme=blue-green&hide_border=false" width="450px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n4itr0-07&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="450px">
+</div> -->
+<h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
+<img align="right" width="50%" src="https://i.imgur.com/1ToWEWw.png"/>
+
+<div style="display: flex; justify-content: center; align-items: center;">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=n4itr0-07&bg_color=0D1117&text_color=FFFFFF&hide_border=true&include_all_commits=false&count_private=false" width="450px">
+  
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=n4itr0-07&theme=highcontrast&background=0D1117&hide_border=true" width="450px">
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n4itr0-07&bg_color=0D1117&text_color=FFFFFF&hide_border=true&layout=compact" width="450px">
+</div>
 
 
 
