@@ -45,6 +45,8 @@ I'm **N4!TR0 07**, a hacker & Learner. I'm on my way to becoming a **Cybersecuri
 
 👉 Exploring Burp, Metaspolit, WireShark etc
 
+👉 A Bacholar Computer Scinece Student
+
 `Updating:`  Journey to Cybersecurity Specialist.
 
 
