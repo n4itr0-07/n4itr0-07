@@ -35,7 +35,7 @@ I'm **N4!TR0 07**, a hacker & Learner. I'm on my way to becoming a **Cybersecuri
 
 ---
 
-<h2 id="present_status"> Present Status </h3>
+<h2 id="present_status"> 𝙋𝙧𝙚𝙨𝙚𝙣𝙩 𝙎𝙩𝙖𝙩𝙪𝙨 </h3>
 
 <img width="25%" align='right' src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59">
 
