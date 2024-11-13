@@ -48,8 +48,6 @@ I'm **N4!TR0 07**, a hacker & Learner. I'm on my way to becoming a **Cybersecuri
 
 `Updating:`  Journey to Cybersecurity Specialist.
 
-
-
 ---
 
 <h2 id="knowledge_skills" align=''> Knowledge & Skills </h2>
