@@ -42,9 +42,7 @@ I aspire to protect company assets and give back to the community by helping bui
 
 👉 Currently Learning Bug Bounty Hunting & Penetration Testing.
 
-👉 Programming Bash, Python, Soon JavaScript & Go
-
-👉 Exploring Burp, Metaspolit, WireShark etc
+👉 Programming Bash, Python, JavaScript & Go
 
 👉 A Bacholar Computer Scinece Student
 
