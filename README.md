@@ -15,10 +15,11 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2>
 
-I'm **N4!TR0 07**, a hacker & Learner. I'm on my way to becoming a **Cybersecurity Specialists** or a **Bug hunter**. <br>
-**Technology** has always fascinated me, and I've immersed myself in the captivating world of cyber security. Malwares, Viruses, Bug hunting,I hope I will become a Cybersecurity Specialists then I can protect company assests and help community.
-
-
+I'm **N4!TR0 07**, a passionate hacker and lifelong learner, on my journey to becoming a **Cybersecurity Specialist and Bug Hunter**.
+Technology has always fascinated me, and I've immersed myself in the world of **Cybersecurity, Penetration Testing, and Bug Bounty**.
+I'm a dedicated **Security Enthusiast**, constantly learning and sharpening my skills.
+I aspire to protect company assets and give back to the community by helping build a safer digital world.
+<!--
 <details>
   <summary>More about me</summary>
 
@@ -30,6 +31,7 @@ I'm **N4!TR0 07**, a hacker & Learner. I'm on my way to becoming a **Cybersecuri
 - Reach me out at **naitro_07@proton.me**
 
 </details>
+-->
 <br>
 
 ---
