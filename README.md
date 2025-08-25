@@ -1,5 +1,3 @@
-<!-- Premium Hacker-Themed GitHub Profile -->
-
 <h1 align="center"> Hey, I’m <span style="color:#00ff9f">N4ITR0 07</span></h1>
 <p align="center">
   <i>"Breaking barriers, one exploit at a time."</i>
@@ -7,7 +5,7 @@
 
 ---
 
-## 🕶About Me
+## About Me
 - ⌂ Aspiring **Cybersecurity Specialist** | Junior Pentester  
 - ⌂ Focused on **Bug Bounty Hunting & Web Application Security**  
 - ⌂ Passionate about **Exploits, Web Security & Penetration Testing**  
@@ -16,7 +14,7 @@
 
 ---
 
-## ⚔Tech Arsenal
+## Tech Arsenal
 
 - » **Languages:** Python, C, Bash, JavaScript, PHP 
 - » **Tools:** Burp Suite, Wireshark, Metasploit, Nmap, Postman  
